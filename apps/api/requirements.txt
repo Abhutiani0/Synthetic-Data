@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.36
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+pandas==2.2.3
+numpy==2.2.1
+scikit-learn==1.6.0
+scipy==1.15.0
+Faker==33.1.0
+python-dotenv==1.0.1
+openai==1.59.6
+pdfplumber==0.11.4
+fpdf2==2.8.1

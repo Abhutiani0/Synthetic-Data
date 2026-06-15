@@ -1,0 +1,21 @@
+patient_id,patient_name,email,phone,date_of_birth,age,department,appointment_type,diagnosis_code,insurance_type,wait_time_min,claim_amount,no_show
+P-10001,John Carter,john.carter@example.com,555-201-3344,1981-04-12,44,Cardiology,follow-up,I25.10,PPO,18,320.50,no
+P-10002,Maria Lopez,maria.lopez@example.com,555-882-1190,1972-11-03,53,Oncology,urgent care,C50.911,HMO,42,1280.00,no
+P-10003,David Kim,dkim@example.com,555-440-9087,1995-07-22,30,Pediatrics,routine,Z00.129,Medicaid,12,90.00,yes
+P-10004,Sarah Patel,sarah.patel@example.com,555-771-2210,1988-01-30,37,Cardiology,follow-up,I10,PPO,25,210.75,no
+P-10005,James Nguyen,jnguyen@example.com,555-333-6655,1965-09-14,60,Orthopedics,urgent care,M17.11,Medicare,55,1540.25,no
+P-10006,Emily Davis,emily.davis@example.com,555-908-1122,2001-03-08,24,Pediatrics,routine,Z00.121,HMO,9,75.00,no
+P-10007,Robert Brown,rbrown@example.com,555-664-7788,1958-12-19,67,Oncology,follow-up,C34.90,Medicare,38,2100.00,yes
+P-10008,Linda Wilson,linda.wilson@example.com,555-221-4499,1979-06-25,46,Cardiology,routine,I48.91,PPO,21,180.00,no
+P-10009,Michael Garcia,mgarcia@example.com,555-512-3030,1990-10-11,35,Orthopedics,follow-up,S82.001,HMO,33,640.50,no
+P-10010,Jennifer Martinez,jmartinez@example.com,555-119-8473,1983-02-17,42,Neurology,urgent care,G43.909,Medicaid,47,980.00,no
+P-10011,William Anderson,wanderson@example.com,555-746-1928,1969-08-05,56,Cardiology,follow-up,I25.10,Medicare,29,295.00,yes
+P-10012,Patricia Thomas,pthomas@example.com,555-637-5512,1976-05-29,49,Oncology,routine,C50.912,PPO,40,1190.00,no
+P-10013,Charles Lee,clee@example.com,555-204-8890,1992-12-02,33,Pediatrics,routine,Z00.129,HMO,11,82.50,no
+P-10014,Barbara White,bwhite@example.com,555-330-7741,1961-07-18,64,Neurology,urgent care,G40.909,Medicare,51,1320.00,no
+P-10015,Joseph Harris,jharris@example.com,555-885-2207,1986-09-23,39,Orthopedics,follow-up,M17.12,PPO,27,560.00,yes
+P-10016,Susan Clark,sclark@example.com,555-471-9963,1974-03-15,52,Cardiology,routine,I10,HMO,19,165.00,no
+P-10017,Thomas Lewis,tlewis@example.com,555-602-4418,1998-11-27,27,Pediatrics,urgent care,J45.909,Medicaid,36,140.00,no
+P-10018,Karen Walker,kwalker@example.com,555-918-3352,1967-01-09,59,Oncology,follow-up,C34.91,Medicare,44,1980.00,no
+P-10019,Christopher Hall,chall@example.com,555-227-6605,1984-04-21,41,Neurology,routine,G43.709,PPO,23,310.00,yes
+P-10020,Nancy Young,nyoung@example.com,555-744-8830,1971-10-30,54,Cardiology,follow-up,I48.0,HMO,31,275.50,no
